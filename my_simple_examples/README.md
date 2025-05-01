@@ -1,4 +1,8 @@
 # GitHub
-This section will contain some snippets and small codes that helps me remember how to do things...
-Por instance, a process that does hosukeeping in Linux/Unix with unix commands that are called from a simple Python "wrapper"... And so on...
-The names of the files are self-explanatory...
+
+### General GitHub Upload Source
+
+I have gathered these programs (based on general Internet sources' codes) to centralize examples I can use later on during any development anywhere.
+Some sources can be retrieved from forums and blogs. I wanted to collect them and place them in an easy-to-access place. 
+There are examples in the range of accessing data analysis procedures and libraries to access to rest APIs, log usage, list operations, and more.
+Names are self-explanatory for each file/example.
